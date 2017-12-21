@@ -12,27 +12,33 @@ These enhancements for bittrex are userscripts that do the following:
  * add chart reload button
  ![chart enhancements screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-chart-enhancements.png "screenshot-chart-enhancements")
 
+
 2. add fullscreen chart button.user.js
  Adds a fullscreen toggle button to bittrex charts. Because we want big charts!
  ![fullscreen button screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fullscreen-chart.png "screenshot-fullscreen-chart")
+
 
 3. bittrex USD Enhancer.user.js
  Adds USD conversion all over the place. This is a userscript port of the google chrome addon by Nirvana Tikku, with a few enhancements and modifications.
  Some conversion columns might not show up in tables if your browsers window is too small. This is due to bootstrap column resizing.
  ![USD enhancer screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-usd-enhancer.png "screenshot-usd-enhancer")
- 
+
+
 4. Bittrex fav charts on homescreen.user.js
  Adds two tradingView widgets on bittrex home screen.
  * USDT to most common cryptocoins
  * BCT to most common cryptocoins
  ![favorite charts screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fav-charts-on-homescreen.png "screenshot-fav-charts-on-homescreen")
- 
-### Installation
-Download & install tampermonkey addon for your favorite browser.
-[link to tampermonkey addon. It's free!](https://tampermonkey.net/)
 
-Grab these userscripts and run them via tampermonkey.
-More instructions and screenshots coming soon.
+
+### Installation
+1. Download & install tampermonkey addon for your favorite browser.
+ <a href="https://tampermonkey.net/" target="_blank">link to tampermonkey addon. It's free!</a>
+2. Grab the userscripts from this repository and run them via tampermonkey.
+3. You'll see them in the tampermonkey popup. Enable the scripts here.
+ ![screenshot-tampermonkey](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-tampermonkey.png "screenshot-tampermonkey")
+
+(More instructions coming soon.)
 
 ### Final
 These scripts probably give more joy than just another app bought in an arbritary appstore :-)
