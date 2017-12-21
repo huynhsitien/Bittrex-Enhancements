@@ -6,39 +6,46 @@ Traders love Bittrex but hate their website. Especially the charts...
 These enhancements for bittrex are userscripts that do the following:
 
 1. bittrex-chart-enhancements.user.js
- Adds the following HUGE enhancements to bittrex charts toolbar:
- * save chart settings (including studies and candleperiods, yeah!) in local storage and auto-restore on loading chart
- * save chart annotations (drawings) in local storage and auto-restore on loading chart
- * add chart reload button
- ![chart enhancements screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-chart-enhancements.png "screenshot-chart-enhancements")
+    Adds the following HUGE enhancements to bittrex charts toolbar:
+    * save chart settings (including studies and candleperiods, yeah!) in local storage and auto-restore on loading chart
+    * save chart annotations (drawings) in local storage and auto-restore on loading chart
+    * add chart reload button
+    ![chart enhancements screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-chart-enhancements.png "screenshot-chart-enhancements")
 
 
 2. add fullscreen chart button.user.js
- Adds a fullscreen toggle button to bittrex charts. Because we want big charts!
- ![fullscreen button screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fullscreen-chart.png "screenshot-fullscreen-chart")
+    Adds a fullscreen toggle button to bittrex charts. Because we want big charts!
+    ![fullscreen button screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fullscreen-chart.png "screenshot-fullscreen-chart")
 
 
 3. bittrex USD Enhancer.user.js
- Adds USD conversion all over the place. This is a userscript port of the google chrome addon by Nirvana Tikku, with a few enhancements and modifications.
- Some conversion columns might not show up in tables if your browsers window is too small. This is due to bootstrap column resizing.
- ![USD enhancer screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-usd-enhancer.png "screenshot-usd-enhancer")
+    Adds USD conversion all over the place. This is a userscript port of the google chrome addon by Nirvana Tikku, with a few enhancements and modifications.
+    Some conversion columns might not show up in tables if your browsers window is too small. This is due to bootstrap column resizing.
+    ![USD enhancer screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-usd-enhancer.png "screenshot-usd-enhancer")
 
 
 4. Bittrex fav charts on homescreen.user.js
- Adds two tradingView widgets on bittrex home screen.
- * USDT to most common cryptocoins
- * BCT to most common cryptocoins
- ![favorite charts screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fav-charts-on-homescreen.png "screenshot-fav-charts-on-homescreen")
+    Adds two tradingView widgets on bittrex home screen.
+        * USDT to most common cryptocoins
+        * BCT to most common cryptocoins
+    ![favorite charts screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fav-charts-on-homescreen.png "screenshot-fav-charts-on-homescreen")
 
 
 ### Installation
 1. Download & install tampermonkey addon for your favorite browser.
  <a href="https://tampermonkey.net/" target="_blank">link to tampermonkey addon. It's free!</a>
-2. Grab the userscripts from this repository and run them via tampermonkey.
-3. You'll see them in the tampermonkey popup. Enable the scripts here.
+ 
+2. Click on one of the following links. Tampermonkey will ask you to install it for you.
+    2.1 https://github.com/toneffectory/Bittrex-Enhancements/raw/master/Bittrex%20fav%20charts%20on%20homescreen.user.js
+    2.2 https://github.com/toneffectory/Bittrex-Enhancements/raw/master/add%20fullscreen%20chart%20button.user.js
+    2.3 https://github.com/toneffectory/Bittrex-Enhancements/raw/master/bittrex%20USD%20Enhancer.user.js
+    2.4 https://github.com/toneffectory/Bittrex-Enhancements/raw/master/Bittrex%20fav%20charts%20on%20homescreen.user.js
+
+    ![script install screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-install-script.png "screenshot-install-script")
+
+3. You'll see the installed scripts in the tampermonkey popup. You can enable and disable the scripts here if you want.
  ![screenshot-tampermonkey](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-tampermonkey.png "screenshot-tampermonkey")
 
-(More instructions coming soon.)
 
 ### Final
 These scripts probably give more joy than just another app bought in an arbritary appstore :-)
