@@ -17,7 +17,10 @@ These enhancements for bittrex are userscripts that do the following:
     Adds a fullscreen toggle button to bittrex charts. Because we want big charts!
     ![fullscreen button screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-fullscreen-chart.png "screenshot-fullscreen-chart")
 
-
+3. Bittrex add tradingview chart.user.js
+    Adds tradingview chart widget as new tab next to the bittrex chart. So both are now available and you can flip back and forth!
+    ![tradingviewchart screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-tradingviewchart.png "screenshot-tradingviewchart")
+    
 3. bittrex USD Enhancer.user.js
     Adds USD conversion all over the place. This is a userscript port of the google chrome addon by Nirvana Tikku, with a few enhancements and modifications.
     Some conversion columns might not show up in tables if your browsers window is too small. This is due to bootstrap column resizing.
