@@ -42,8 +42,9 @@ These enhancements for bittrex are userscripts that do the following:
 2. Click on one of the following links. Tampermonkey will ask you to install it for you.  
 2.1 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/bittrex-chart-enhancements.user.js" target="_blank">Chart enhancements</a>  
 2.2 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/add%20fullscreen%20chart%20button.user.js" target="_blank">Full screen chart button</a>  
-2.3 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/bittrex%20USD%20Enhancer.user.js" target="_blank">USD enhancer</a>  
-2.4 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/Bittrex%20fav%20charts%20on%20homescreen.user.js" target="_blank">Favorite charts on homescreen</a>  
+2.3 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/Bittrex%20add%20tradingview%20chart.user.js" target="_blank">Tradingview charts</a>  
+2.4 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/bittrex%20USD%20Enhancer.user.js" target="_blank">USD enhancer</a>  
+2.5 <a href="https://github.com/toneffectory/Bittrex-Enhancements/raw/master/Bittrex%20fav%20charts%20on%20homescreen.user.js" target="_blank">Favorite charts on homescreen</a>  
 
     ![script install screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-install-script.png "screenshot-install-script")
 
