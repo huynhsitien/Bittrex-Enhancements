@@ -19,6 +19,7 @@ These enhancements for bittrex are userscripts that do the following:
 
 3. Bittrex add tradingview chart.user.js
     Adds tradingview chart widget as new tab next to the bittrex chart. So both are now available and you can flip back and forth!
+    
     ![tradingviewchart screenshot](https://github.com/toneffectory/Bittrex-Enhancements/raw/master/screenshots/screenshot-tradingviewchart.png "screenshot-tradingviewchart")
     
 3. bittrex USD Enhancer.user.js
